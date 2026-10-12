@@ -1,0 +1,6 @@
+{
+  "name": "GST Reconciliation Pro",
+  "description": "AI-Assisted GST Reconciliation, Audit & ITC Compliance Platform for Indian Chartered Accountants and Tax Professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
